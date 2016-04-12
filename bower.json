@@ -1,0 +1,28 @@
+{
+  "name": "ui-ionic-toast",
+  "version": "0.2.0",
+  "authors": [
+    "tanhauhau <lhtan93@gmail.com>"
+  ],
+  "description": "Toast for Ionic Framework Applications",
+  "main": "./dist/ionicToast.min.js",
+  "keywords": [
+    "ionic-toast",
+    "toast",
+    "ionic",
+    "toast for ionic",
+    "toast for ionic framework"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ionic-widget/ui-ionic-toast",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ionic": "^1.2.4"
+  }
+}
